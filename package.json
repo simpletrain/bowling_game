@@ -1,0 +1,9 @@
+{
+  "name": "bowling_game",
+  "version": "1.0.0",
+  "description": "A program to score a game of Ten-Pin Bowling.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  }
+}
